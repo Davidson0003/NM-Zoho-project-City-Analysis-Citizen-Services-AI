@@ -60,6 +60,7 @@ pip install -r requirements.txt
 ## Documentation
 https://docs.google.com/document/d/1LBUvjjaWKJKW63EvX9F7LGC0KQWjOUrZJpL4sQiBe2I/edit?usp=sharing
 
+
 ## 🔮 Future Enhancements
 
 * Integration with **real-time crime and traffic APIs** for factual insights.
