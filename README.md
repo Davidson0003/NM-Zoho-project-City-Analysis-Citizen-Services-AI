@@ -52,9 +52,9 @@ pip install -r requirements.txt
    ```
 
 
-## 🎥 Demo Video
+## 🎥 Demo Video Link
 
-👉 [Demo Video Link](https://drive.google.com/) 
+https://drive.google.com/file/d/1ZBsxu-1bbKWyOTdyo_ql7KnPMGtfznNd/view?usp=drivesdk
 
 ---
 ## Documentation
